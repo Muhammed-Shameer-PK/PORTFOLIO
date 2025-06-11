@@ -58,7 +58,7 @@ const Home = () => {
                       bg-light-background dark:bg-dark-background 
                       clip-path-polygon-[20%_0%,_100%_0%,_100%_80%,_80%_100%,_0%_100%,_0%_20%]">
                     <img
-                      src="src\profile.jpg"
+                      src="profile.jpg"
                       alt="Muhammed Shameer"
                       className="w-full h-full object-cover"
                     />
